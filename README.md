@@ -91,7 +91,13 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 ![19](https://user-images.githubusercontent.com/50174329/80061972-3b7ac180-8550-11ea-8f84-f32a8ffd397f.PNG)
 
-16. Run Hello to run the vuln program.
+16. Run Hello to run the vuln program and exit it normally.
+
+![20](https://user-images.githubusercontent.com/50174329/80062182-c1970800-8550-11ea-9ab2-4f739ebae921.PNG)
+
+17. Next run $(python -c 'print "\x41" * 508') to over run the program and the program will receive a signal with segmentation fault.
+
+
 
 
 
