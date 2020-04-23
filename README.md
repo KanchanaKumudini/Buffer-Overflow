@@ -43,7 +43,11 @@ Let's do a Slack Based Buffer Overflow
 
 ![6](https://user-images.githubusercontent.com/50174329/80059110-bd66ec80-8548-11ea-8140-4e2d08ddbefa.PNG)
 
-6. Type prinenv and press enter to show all the variables running around the infrastructure.
+6. Type prinenv and press enter to show all the variables running around the infrastructure and close that out.
+
+![7](https://user-images.githubusercontent.com/50174329/80059370-788f8580-8549-11ea-9e0b-a43e12eb20a5.PNG)
+
+7. Type nano and paste the script.
 
 
 
