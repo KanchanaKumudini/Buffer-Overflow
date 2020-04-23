@@ -71,6 +71,11 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 11. Compile this using the guines compiler to create an executable file.
 
+![14](https://user-images.githubusercontent.com/50174329/80061214-446a9380-854e-11ea-970b-5b9d5ec92d82.PNG)
+
+12. Type ls and ./envexec.sh -d vuln to clean up the bash environment. 
+
+
 
 
 
