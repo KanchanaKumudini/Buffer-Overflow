@@ -87,6 +87,17 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 15. Type disas main to Disassemble main, you will find an interesting assembly code defining the buffer and go ahead and hex convert it.
 
+![18](https://user-images.githubusercontent.com/50174329/80061960-3289f000-8550-11ea-8f12-6bdfd7afe7b4.PNG)
+
+![19](https://user-images.githubusercontent.com/50174329/80061972-3b7ac180-8550-11ea-8f84-f32a8ffd397f.PNG)
+
+16. Run Hello to run the vuln program.
+
+
+
+
+
+
 
 
 
