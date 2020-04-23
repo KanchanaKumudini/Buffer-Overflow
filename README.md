@@ -105,7 +105,7 @@ by default the C program shows the int main fuction, int argc is the count of ar
 
 ![23](https://user-images.githubusercontent.com/50174329/80062941-73830400-8552-11ea-84f2-c848b9ac661d.PNG)
 
-19. Type x/200x ($esp - 550) to examine the memory address and run that command to walk trough the memory.
+19. Type x/200x ($esp - 550) to examine the memory address and run that command to walk through the memory.
 
 ![24](https://user-images.githubusercontent.com/50174329/80063176-f1dfa600-8552-11ea-8fc8-114e448bf69c.PNG)
 
