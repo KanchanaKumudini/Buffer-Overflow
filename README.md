@@ -63,7 +63,7 @@ Let's do a Slack Based Buffer Overflow
 
 ![10](https://user-images.githubusercontent.com/50174329/80060168-81815680-854b-11ea-89e3-e548e5970ee3.PNG)
 
-by default the C program shows the int main fuctio, int argc is the count of arguments, char argv is the character array of values and next line we created a character buffer of 500 bites and we run the very vulnerable function string copy. This says that the argv value [1] and copy that into buffer. The problem is that if argv value is more than 500 it will overflow the buffer. Then type Ctrl x to exit.
+by default the C program shows the int main fuction, int argc is the count of arguments, char argv is the character array of values and next line we created a character buffer of 500 bites and we run the vulnerable function string copy. This says that the argv value [1] and copy that into buffer. The problem is that if argv value is more than 500 it will overflow the buffer. Then type Ctrl x to exit.
 
 10. Type nano, ls, and we can see our exvexec.sh and our vuln.c program. 
 
@@ -101,7 +101,7 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 ![22](https://user-images.githubusercontent.com/50174329/80062511-91039e00-8551-11ea-8e78-87671d779491.PNG)
 
-18. Type info refisters and you will see that the eip (Extended Index Pointer) and ebp (Extended Base Pointer) have been over written with the values 4141.
+18. Type info registers and you will see that the eip (Extended Index Pointer) and ebp (Extended Base Pointer) have been over written with the values 4141.
 
 ![23](https://user-images.githubusercontent.com/50174329/80062941-73830400-8552-11ea-84f2-c848b9ac661d.PNG)
 
@@ -119,7 +119,7 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 ![27](https://user-images.githubusercontent.com/50174329/80063613-e6d94580-8553-11ea-838c-c7c404079277.PNG)
 
-type y and this time the return vale is 51 instead of 41 that means we were able to successfully over right the return address and the caller EBP.
+type y and this time the return vaule is 51 instead of 41 that means we were able to successfully over write the return address and the caller EBP.
 
 22. Again type info registers and we can see that the eip and ebp has been over written.
 
@@ -133,12 +133,12 @@ type y and this time the return vale is 51 instead of 41 that means we were able
 
 ![30](https://user-images.githubusercontent.com/50174329/80064340-73d0ce80-8555-11ea-8854-0a49f6ab4bf3.PNG)
 
-25. Next conver the memory value and reverse the bites.
+25. Next convert the memory value and reverse the bites.
 
 0xbf ff fa ba
 \xba\xfa\xff\xbf
 
-26. Copy the exploit, press Q to quit and paste it and if you run it successfully you should see a new shell come up.
+26. Copy the exploit, press q to quit and paste it and if you run it successfully you should see a new shell come up.
 
 ![31](https://user-images.githubusercontent.com/50174329/80064834-a7602880-8556-11ea-986b-7bae4f973387.PNG)
 
