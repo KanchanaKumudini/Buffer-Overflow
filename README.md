@@ -36,6 +36,10 @@ Let's do a Slack Based Buffer Overflow
 
 ![5](https://user-images.githubusercontent.com/50174329/80058943-3f0a4a80-8548-11ea-8ad9-4dc215965c35.PNG)
 
+5. Enable debugging and core dump to unlimited.
+
+
+
 
 
 
