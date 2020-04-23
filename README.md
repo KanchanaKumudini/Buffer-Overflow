@@ -24,10 +24,10 @@ Let's do a Slack Based Buffer Overflow
 ![2](https://user-images.githubusercontent.com/50174329/80057143-88a46680-8543-11ea-9d8e-b77f44e96906.PNG)
 
 2. Go to Kali Linux, open a terminal and type: uname -a you can see that I'm using Kali linux 2016 32 bits version.
-![3](https://user-images.githubusercontent.com/50174329/80057850-411eda00-8545-11ea-9b0a-bd8b9021c8c1.PNG)
+ ![3](https://user-images.githubusercontent.com/50174329/80057850-411eda00-8545-11ea-9b0a-bd8b9021c8c1.PNG)
 
 3. Turn off memory address randomisation.
-![4](https://user-images.githubusercontent.com/50174329/80058085-f2257480-8545-11ea-9a96-e925a3c8655a.PNG)
+ ![4](https://user-images.githubusercontent.com/50174329/80058085-f2257480-8545-11ea-9a96-e925a3c8655a.PNG)
 
 
 
