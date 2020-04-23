@@ -47,7 +47,16 @@ Let's do a Slack Based Buffer Overflow
 
 ![7](https://user-images.githubusercontent.com/50174329/80059370-788f8580-8549-11ea-9e0b-a43e12eb20a5.PNG)
 
-7. Type nano and paste the script.
+7. Type nano, paste the script, press Ctrl o and call it exvexec.sh and press Ctrl x to exit.
+
+![8](https://user-images.githubusercontent.com/50174329/80059572-f489cd80-8549-11ea-8530-ea3d44586ecc.PNG)
+
+8. Type nano and chmod +x exvexec.sh to execute this and you will see the executable in green.
+
+
+
+
+
 
 
 
