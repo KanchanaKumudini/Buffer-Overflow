@@ -79,6 +79,12 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 13. Now we are inside GDB.
 
+![16](https://user-images.githubusercontent.com/50174329/80061501-19cd0a80-854f-11ea-9a1f-59096e0ad2bc.PNG)
+
+Run some GDB Commands.
+
+
+
 
 
 
