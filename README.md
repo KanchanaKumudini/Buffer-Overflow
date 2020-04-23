@@ -57,6 +57,12 @@ Let's do a Slack Based Buffer Overflow
 
 9. Type nano, paste vuln code, press Ctrl o and call it vuln.c and press Ctrl x to exit, type nano and chmod + x vuln.c to execute this and you will see the executable in green. 
 
+![10](https://user-images.githubusercontent.com/50174329/80060168-81815680-854b-11ea-89e3-e548e5970ee3.PNG)
+
+by default the C program shows the int main fuctio, int argc is the count of arguments, char argv is the character array of values and next line we created a character buffer of 500 bites and we run the very vulnerable function string copy. This says that the argv value [1] and copy that into buffer. The problem is that if argv value is more than 500 it will overflow the buffer. Then type Ctrl x to exit.
+
+10. Type nano, ls, and we can see our exvexec.sh and our vuln.c program. 
+
 
 
 
