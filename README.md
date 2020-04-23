@@ -1,8 +1,7 @@
 # Buffer-Overflow Writeup
 Stack Based Buffer Overflow 
 This writeup is based on the Stack Buffer Overflow Video
-https://mysliit-my.sharepoint.com/:v:/g/personal/ms18912258_my_sliit_lk/EVbYCezSsZVEiucdllw1_6EBPZvHIF6fjR2cCIjnfzS8bQ?e=UKe0ec
-
+https://mysliit-my.sharepoint.com/:v:/g/personal/ms18912258_my_sliit_lk/EQmJReWAXbxNt7_Wc0enGncB4Sjv7P4bArNu4_I3taC06Q?e=qJx9Ok
 
 Introduction
 
