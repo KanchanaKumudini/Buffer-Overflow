@@ -13,7 +13,7 @@ What is a Stack?
 A stack is an abstract data type frequently used in computer science. A stack of objects has the property that the last object placed on the stack will be the first object removed. This property is commonly referred to as last in, first out queue, or a LIFO.
 Several operations are defined on stacks. Two of the most important are PUSH and POP. PUSH adds an element at the top of the stack. POP, in contrast, reduces the stack size by one by removing the last element at the top of the stack.
 
-
+![1](https://user-images.githubusercontent.com/50174329/80055208-c226a300-853e-11ea-889e-1c0ec3be2ab9.PNG)
 
    
 
