@@ -53,6 +53,12 @@ Let's do a Slack Based Buffer Overflow
 
 8. Type nano and chmod +x exvexec.sh to execute this and you will see the executable in green.
 
+![9](https://user-images.githubusercontent.com/50174329/80059872-b9d46500-854a-11ea-8a4d-72c2885a8bd4.PNG)
+
+9. Type nano, paste vuln code, press Ctrl o and call it vuln.c and press Ctrl x to exit, type nano and chmod + x vuln.c to execute this and you will see the executable in green. 
+
+
+
 
 
 
