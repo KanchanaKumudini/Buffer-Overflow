@@ -123,6 +123,11 @@ type y and this time the return vale is 51 instead of 41 that means we were able
 
 22. Again type info registers and we can see that the eip and ebp has been over written.
 
+![28](https://user-images.githubusercontent.com/50174329/80063930-9d3d2a80-8554-11ea-9f32-45ae2ce2fa28.PNG)
+
+23. Next type x/200x ($esp - 550) to double check memory and press enter.
+
+
 
 
 
