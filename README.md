@@ -24,7 +24,7 @@ Let's do a Slack Based Buffer Overflow
 ![2](https://user-images.githubusercontent.com/50174329/80057143-88a46680-8543-11ea-9d8e-b77f44e96906.PNG)
 
 2. Go to Kali Linux, open a terminal and type:
-uname-a
+uname -a you can see that I'm using Kali linux 2016 32 bits version.
 
 
 
