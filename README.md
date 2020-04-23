@@ -81,7 +81,14 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 ![16](https://user-images.githubusercontent.com/50174329/80061501-19cd0a80-854f-11ea-9a1f-59096e0ad2bc.PNG)
 
-Run some GDB Commands.
+14. Run some GDB Commands.
+
+![17](https://user-images.githubusercontent.com/50174329/80061690-9d86f700-854f-11ea-9f2b-f9a60b3b4e3e.PNG)
+
+15. Type disas main to Disassemble main, you will find an interesting assembly code defining the buffer and go ahead and hex convert it.
+
+
+
 
 
 
