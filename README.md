@@ -34,6 +34,9 @@ Let's do a Slack Based Buffer Overflow
 
 4. Reload that and run the memory address randomisation command again to get the value 0.
 
+![5](https://user-images.githubusercontent.com/50174329/80058943-3f0a4a80-8548-11ea-8ad9-4dc215965c35.PNG)
+
+
 
 
 
