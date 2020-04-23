@@ -27,6 +27,8 @@ Let's do a Slack Based Buffer Overflow
 ![3](https://user-images.githubusercontent.com/50174329/80057850-411eda00-8545-11ea-9b0a-bd8b9021c8c1.PNG)
 
 3. Turn off memory address randomisation.
+![4](https://user-images.githubusercontent.com/50174329/80058085-f2257480-8545-11ea-9a96-e925a3c8655a.PNG)
+
 
 
 
