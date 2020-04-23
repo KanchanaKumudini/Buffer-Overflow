@@ -140,6 +140,14 @@ type y and this time the return vale is 51 instead of 41 that means we were able
 
 26. Copy the exploit, press Q to quit and paste it and if you run it successfully you should see a new shell come up.
 
+![31](https://user-images.githubusercontent.com/50174329/80064834-a7602880-8556-11ea-986b-7bae4f973387.PNG)
+
+![32](https://user-images.githubusercontent.com/50174329/80064843-aaf3af80-8556-11ea-8a0b-96fcdb3b91ed.PNG)
+
+27. We just created a buffer overflow to crash the program. 
+
+
+
 
 
 
