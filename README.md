@@ -49,7 +49,7 @@ Let's do a Slack Based Buffer Overflow
 
 7. Type nano, paste the script, press Ctrl o and call it exvexec.sh and press Ctrl x to exit.
 
-
+![12](https://user-images.githubusercontent.com/50174329/80060898-54ce3e80-854d-11ea-83ff-672ce367c97f.PNG)
 
 ![8](https://user-images.githubusercontent.com/50174329/80059572-f489cd80-8549-11ea-8530-ea3d44586ecc.PNG)
 
