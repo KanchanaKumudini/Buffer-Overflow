@@ -75,6 +75,11 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 12. Type ls and ./envexec.sh -d vuln to clean up the bash environment. 
 
+![15](https://user-images.githubusercontent.com/50174329/80061387-bfcc4500-854e-11ea-9c15-0d4a02794e3f.PNG)
+
+13. Now we are inside GDB.
+
+
 
 
 
