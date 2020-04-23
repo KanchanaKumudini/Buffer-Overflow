@@ -103,7 +103,11 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 18. Type info refisters and you will see that the eip (Extended Index Pointer) and ebp (Extended Base Pointer) have been over written with the values 4141.
 
-19. 
+![23](https://user-images.githubusercontent.com/50174329/80062941-73830400-8552-11ea-84f2-c848b9ac661d.PNG)
+
+19. Type x/200x ($esp - 550) to examine the memory address and run that command to walk trough the memory.
+
+
 
 
 
