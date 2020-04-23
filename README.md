@@ -1,3 +1,5 @@
-# Buffer-Overflow 
+# Buffer-Overflow Writeup
 Stack Based Buffer Overflow 
-How to disable memory randomisation
+This writeup is based on the Stack Buffer Overflow Video
+
+How to disable memory randomization, enable core dumps?
