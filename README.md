@@ -127,6 +127,12 @@ type y and this time the return vale is 51 instead of 41 that means we were able
 
 23. Next type x/200x ($esp - 550) to double check memory and press enter.
 
+![29](https://user-images.githubusercontent.com/50174329/80064214-2a807f00-8555-11ea-8907-0bbec007ec9d.PNG)
+
+24. Pick a value.
+
+
+
 
 
 
