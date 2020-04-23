@@ -129,7 +129,23 @@ type y and this time the return vale is 51 instead of 41 that means we were able
 
 ![29](https://user-images.githubusercontent.com/50174329/80064214-2a807f00-8555-11ea-8907-0bbec007ec9d.PNG)
 
-24. Pick a value.
+24. Pick a value. If we can redirect the execution of the program to look in and start reading the memory it will continue sliding until it hits our exploit. 
+
+![30](https://user-images.githubusercontent.com/50174329/80064340-73d0ce80-8555-11ea-8854-0a49f6ab4bf3.PNG)
+
+25. Next conver the memory value and reverse the bites.
+
+0xbf ff fa ba
+\xba\xfa\xff\xbf
+
+26. Copy the exploit, press Q to quit and paste it and if you run it successfully you should see a new shell come up.
+
+
+
+
+
+
+
 
 
 
