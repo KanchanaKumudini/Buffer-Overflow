@@ -21,6 +21,7 @@ In software, a stack buffer overflow or stack buffer overrun occurs when a progr
 Let's do a Slack Based Buffer Overflow
 
 First disable memory randomization and enable core dumps.
+![2](https://user-images.githubusercontent.com/50174329/80057143-88a46680-8543-11ea-9d8e-b77f44e96906.PNG)
 
 
 
