@@ -95,7 +95,19 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 ![20](https://user-images.githubusercontent.com/50174329/80062182-c1970800-8550-11ea-9ab2-4f739ebae921.PNG)
 
-17. Next run $(python -c 'print "\x41" * 508') to over run the program and the program will receive a signal with segmentation fault.
+17. Next run $(python -c 'print "\x41" * 508') to over run the program and the program will receive a signal with segmentation fault and we have crashed the program.
+
+![21](https://user-images.githubusercontent.com/50174329/80062499-8c3eea00-8551-11ea-92cf-5bc283cf1386.PNG)
+
+![22](https://user-images.githubusercontent.com/50174329/80062511-91039e00-8551-11ea-8e78-87671d779491.PNG)
+
+18. Type info refisters and you will see that the eip (Extended Index Pointer) and ebp (Extended Base Pointer) have been over written with the values 4141.
+
+19. 
+
+
+
+
 
 
 
