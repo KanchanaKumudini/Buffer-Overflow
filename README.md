@@ -107,6 +107,16 @@ by default the C program shows the int main fuctio, int argc is the count of arg
 
 19. Type x/200x ($esp - 550) to examine the memory address and run that command to walk trough the memory.
 
+![24](https://user-images.githubusercontent.com/50174329/80063176-f1dfa600-8552-11ea-8fc8-114e448bf69c.PNG)
+
+![25](https://user-images.githubusercontent.com/50174329/80063183-f60bc380-8552-11ea-8539-942128c3643e.PNG)
+
+20. Now we can see where the buffer exists in memory and where it has been over written.
+
+
+
+
+
 
 
 
